@@ -149,9 +149,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/igna10697)
-- Twitter: [@twitterhandle](https://twitter.com/Ignatius_cheruiyot)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ignatius-cheruiyot-53559016b/)
+- GitHub: [https://github.com/igna10697]
+- Twitter: [https://twitter.com/Ignatius_cheruiyot]
+- LinkedIn: [https://www.linkedin.com/in/ignatius-cheruiyot-53559016b]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
