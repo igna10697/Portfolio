@@ -1,4 +1,5 @@
 .container {
+  border: 10px black;
   display: flex;
   max-width: 500px;
   min-height: 100vh;
@@ -47,3 +48,23 @@
 .heading {
   color: blue;
 }
+
+.toolbar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  
+}
+
+.logo {
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+
+
