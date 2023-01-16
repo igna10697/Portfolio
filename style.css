@@ -47,3 +47,19 @@
 .heading {
   color: blue;
 }
+
+.toolbar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 76px;
+  height: 20px;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+}
