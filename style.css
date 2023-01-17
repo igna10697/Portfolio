@@ -48,7 +48,7 @@
 .heading {
   display: flex;
   justify-content: flex-start;
-
+  padding-left: 30px;
 }
 
 .greetings p {
@@ -80,48 +80,7 @@
   flex-direction: column;
   align-items: center;
 }
-
-.icon-bar .twitter {
-  position: absolute;
-  left: 6.4%;
-  right: 88.27%;
-  top: 77.81%;
-  bottom: 18.88%;
-}
-
-.icon-bar .linkedin {
-  position: absolute;
-  left: 18.74%;
-  right: 77.87%;
-  top: 78.32%;
-  bottom: 18.87%;
-}
-
-.icon-bar .m {
-  position: absolute;
-  left: 27.47%;
-  right: 67.2%;
-  top: 78.15%;
-  bottom: 19.21%;
-}
-
-.icon-bar .hand {
-  position: absolute;
-  left: 38.13%;
-  right: 57.07%;
-  top: 77.81%;
-  bottom: 18.87%;
-}
-
-.icon-bar .cat {
-  position: absolute;
-  left: 48%;
-  right: 48.22%;
-  top: 77.81%;
-  bottom: 18.87%;
-}
-
-.about-me > * {
+.icon-bar {
   display: flex;
 }
 
